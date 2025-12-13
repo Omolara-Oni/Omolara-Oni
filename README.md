@@ -1,6 +1,5 @@
-## Hi there 👋
 
-##Hi, I’m Omolara 👋
+## Hi, I’m Omolara 👋
 
 I’m interested in data engineering and analytics, especially building clean, reliable data workflows from messy real-world data.
 
