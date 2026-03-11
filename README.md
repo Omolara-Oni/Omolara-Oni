@@ -41,7 +41,7 @@ Rebuilt the full data workflow from an existing research paper: from raw source 
 
 ---
 
-## 📊 What I'm Working On
+## What I'm Working On
 
 - 🌱 Learning **Apache Airflow** and **dbt** to build orchestrated, cloud-native pipelines
 - ☁️ Expanding hands-on experience with **AWS S3, Glue, and Redshift**
@@ -51,8 +51,8 @@ Rebuilt the full data workflow from an existing research paper: from raw source 
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/omolara-oni)
-- 📧 omolaraoni51@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/omolara-oni)
+-  omolaraoni51@gmail.com
 - 📍 Dallas, TX — open to remote and hybrid roles
 
 ---
