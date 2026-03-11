@@ -25,7 +25,7 @@ End-to-end ETL pipeline built to track multi-user workout data with a normalized
 ### Redlining Project
 *Python · GIS · Statistical Modeling · Multi-Source Data Integration*
 
-Integrated 100,000+ records across geospatial, HMDA loan, census, and demographic datasets into a single analysis-ready pipeline. Applied regression modeling to surface lending disparities across demographic groups. Full transformation logic documented for reproducibility.
+Examined the long-term economic and racial effects of 1930s HOLC redlining policies on modern Chicago neighborhoods using four integrated data sources: historical HOLC maps (Mapping Inequality), U.S. Census data (1940 & 2019), and HMDA mortgage lending records spanning 1981–2021. Built a full data pipeline handling geospatial alignment across census tract boundaries, inflation adjustment across decades, and missing data imputation. Applied a multivariate OLS regression model — with Breusch-Pagan, Ramsey RESET, and VIF diagnostic tests — achieving an R² of 0.72. Findings confirmed statistically significant income and homeownership disparities persisting in historically redlined neighborhoods, with redlined areas showing median incomes nearly half that of non-redlined areas ($35K vs $65K) and mortgage approval rates less than half (25% vs 60%).
 
 
 
