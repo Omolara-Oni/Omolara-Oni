@@ -52,7 +52,7 @@ Rebuilt the full data workflow from an existing research paper: from raw source 
 
 -  [LinkedIn](https://www.linkedin.com/in/omolara-oni)
 -  omolaraoni51@gmail.com
-- Dallas, TX — open to remote and hybrid roles
+- Dallas, TX — open to all roles
 
 ---
 
